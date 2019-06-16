@@ -1,4 +1,4 @@
 # SparksLoginApp
 A Social Media Integration Project
-#Demo
+# Demo
 [Link to youtube video](https://youtu.be/fnMVPAVmtTY)
